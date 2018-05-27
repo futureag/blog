@@ -1,0 +1,8 @@
+baseURL = "http://futureag.github.io/"
+languageCode = "en-us"
+title = "Futureag"
+theme = "ananke"
+
+[params]
+  background_color_class = "bg-black"
+  featured_image = "/images/dew.jpg"
